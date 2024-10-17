@@ -1,6 +1,6 @@
 
 body {
-    background: #f5f5f5
+    background: #242849
 }
 
 ul {
@@ -11,11 +11,11 @@ ul {
 
 a {
     text-decoration: none;
-    color: #2f2f2f
+    color: #000000
 }
 
 a:hover {
-    color: #646464;
+    color: #ffc93f;
     text-decoration: none
 }
 
@@ -383,7 +383,6 @@ img:hover {
     color: #fff
 }
 
-.main-nav ul li a {}
 
 .navbar-collapse {
     padding-left: 0
@@ -784,7 +783,6 @@ img:hover {
     width: 49%
 }
 
-.business_catgnav {}
 
 .business_catgnav li {
     float: left;
@@ -826,7 +824,6 @@ img:hover {
     min-height: 300px
 }
 
-.spost_nav {}
 
 .spost_nav li {
     float: left;
@@ -1224,9 +1221,6 @@ figure.effect-layla:hover img {
     text-transform: uppercase
 }
 
-.tag_nav {}
-
-.tag_nav li {}
 
 .tag_nav li a {
     border-bottom: 1px solid #ddd;
