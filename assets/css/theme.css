@@ -1,5 +1,5 @@
 .scrollToTop {
-    background-color: #d083cf;
+    background-color: #2064cb;
     color: #fff;
 }
 
@@ -7,11 +7,11 @@
 .scrollToTop:focus {
     background-color: #fff;
     color: #6aff00;
-    border-color: 1px solid #d083cf;
+    border-color: 1px solid #2064cb;
 }
 
 .logo>span {
-    color: #d083cf;
+    color: #2064cb;
 }
 
 .navbar-inverse .navbar-nav>li>a:hover,
@@ -28,13 +28,13 @@
 .navbar-inverse .navbar-nav>.open>a,
 .navbar-inverse .navbar-nav>.open>a:hover,
 .navbar-inverse .navbar-nav>.open>a:focus {
-    background-color: #721c71;
+    background-color:#2064cb;
 }
 
 .navbar-inverse .navbar-nav>.open>a,
 .navbar-inverse .navbar-nav>.open>a:hover,
 .navbar-inverse .navbar-nav>.open>a:focus {
-    background-color: #d083cf;
+    background-color: #2064cb;
 }
 
 .latest_newsarea span {
@@ -46,11 +46,11 @@
 }
 
 #prev-button {
-    color: #d083cf;
+    color: #2064cb
 }
 
 #next-button {
-    color: #d083cf;
+    color: #2064cb;
 }
 
 .single_post_content>h2 span {
@@ -62,43 +62,43 @@
 }
 
 .bsbig_fig figcaption a:hover {
-    color: #03074a;
+    color: #2064cb
 }
 
 .spost_nav .media-body>a:hover {
-    color: #d083cf;
+    color: #2064cb;;
 }
 
 .cat-item a:hover {
-    background-color: #d083cf;
+    background-color: #2064cb;;
 }
 
 .nav-tabs>li>a:hover,
 .nav-tabs>li>a:focus {
-    background-color: #d083cf;
+    background-color: #2064cb;;
 }
 
 .nav-tabs>li.active>a,
 .nav-tabs>li.active>a:hover,
 .nav-tabs>li.active>a:focus {
-    background-color: #d083cf;
+    background-color: #2064cb;;
 }
 
 .single_sidebar>ul>li a:hover {
-    color: #d083cf;
+    color: #2064cb;;
 }
 
 .footer_widget>h2:hover {
-    color: #d083cf;
+    color: #2064cb;;
 }
 
 .tag_nav li a:hover {
-    color: #d083cf;
-    border-color: #d083cf;
+    color: #2064cb;;
+    border-color: #2064cb;;
 }
 
 .copyright a:hover {
-    color: #d083cf;
+    color: #2064cb;;
 }
 
 .post_commentbox a:hover,
